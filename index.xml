@@ -1,0 +1,91 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>(ian)Yuang Chen on (ian)Yuang Chen</title>
+    <link>https://albertpp.github.io/</link>
+    <description>Recent content in (ian)Yuang Chen on (ian)Yuang Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://albertpp.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://albertpp.github.io/posts/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://albertpp.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://albertpp.github.io/projects/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://albertpp.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://albertpp.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://albertpp.github.io/about/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m Yuang Chen (陈宇昂), a junior student in Peking University, College of Urban and Environmental Sciences(CUES), majoring in Environmental Science. My current interests in research are quite varied and cross-disciplinary, ranging from &lt;strong&gt;regional pollutants transmission&lt;/strong&gt; (which includes emission-inventory compilation, air modelling and political analysis) to &lt;strong&gt;LCA analysis&lt;/strong&gt; of certain industries like cement, fertilizer and municipal waste. &lt;a href=&#34;http://albertpp.github.io/research&#34;&gt;Read more about my research in this page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Feel free to contact me via: &lt;a href=&#34;mailto:cya.pku@gmail.com&#34;&gt;cya.pku@gmail.com&lt;/a&gt;  or  &lt;a href=&#34;mailto:cya@pku.edu.cn&#34;&gt;cya@pku.edu.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;personal-life&#34;&gt;#&lt;em&gt;&lt;strong&gt;Personal Life&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://albertpp.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://albertpp.github.io/research/</guid>
+      <description>&lt;p&gt;I am a junior student at the &lt;a href=&#34;http://www.pku-crem.net&#34;&gt;Resource and Environmental Management Research Center&lt;/a&gt; affiliating to College of Urban and Environmental Sciences, Peking University.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;research-focus&#34;&gt;#Research Focus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Regional transformation and transportation of pollutants like ammonia and mercury. This includes emission inventory compilation and  transportation model development.&lt;/li&gt;
+&lt;li&gt;Analysis of emission trends associated with energy consumption and related policies, which requires methods like LMDI,  I-O analysis, LCA and MFA analysis.&lt;/li&gt;
+&lt;li&gt;Every possible chance for field sampling.&lt;/li&gt;
+&lt;li&gt;Always fighting for new possibilities!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;current-projects&#34;&gt;#Current Projects&lt;/h3&gt;
+&lt;p&gt;(All results and graphs can be used only after consent, my email is in this &lt;a href=&#34;http://albertpp.github.io/about&#34;&gt;page&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ammonia Emission Inventory Compilation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(This work is currently being submitted to journal ES&amp;amp;T)&lt;/p&gt;
+&lt;p&gt;While agriculture and livestock are usually considered the biggest contributors to ammonia emissions, there are satellite images and other agiculture-side model work that say something different. The ammonia emitted from industrial and waste disposal sectors in China is non-negligible, especially in dense-populated urban cities and provinces with heavy industries.&lt;/p&gt;
+&lt;p&gt;Also, current ammonia emission inventories mostly use proxy data while point-source data is lacking. Our work provides a detailed high resolution industrial and waste disposal ammonia emission inventory with data from various economic and geographic databases and published lists from Chinese government.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LMDI Analysis of emission trends of ammonia&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a follow-up work of the first project. With detailed ammonia emissions from industrial and waste disposal sectors, we now have the chance to study how does this 3-fold increase come into place. With LMDI analysis together with some regression techniques obtained from Econometrics, we try to explain this increase from a political stand.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Glacial Mercury Release in Tibetan Plateau&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Often, we can hear saying like &amp;ldquo;glaciers are melting and results in those pollutants inside released&amp;rdquo;. But no one has ever answer how much of these released pollutants will be. We lay eyes on the Tibetan Plateau, the &amp;ldquo;Asian Water Tower&amp;rdquo;, and mercury, the most important heavy metal pollutants that also can travel long distance.&lt;/p&gt;
+&lt;p&gt;By estimating the amount of glaciers melting and massive field sampling, we develop a method of calculating glacial mercury release from Tibetan Plateau, which can also be used for other estimation of heavy metal release from high mountain glaciers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
