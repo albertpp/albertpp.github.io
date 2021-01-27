@@ -6,7 +6,17 @@
     <description>Recent content in Posts on (ian)Yuang Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://albertpp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://albertpp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start</title>
+      <link>https://albertpp.github.io/2021/what-is-this-website-for/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://albertpp.github.io/2021/what-is-this-website-for/</guid>
+      <description>#0. Why building this website?
+I&amp;rsquo;m always a lover of telling, no matter what I tell&amp;ndash;stories, my feelings, daily routines, magics, legends&amp;ndash;I just tell them all. So when I grow up to be a college student, with all the staff I learn from textbook, my teachers and sometimes from websites, I can&amp;rsquo;t suppress my urge to share them with people. I myself own a Wechat Subscriber named &amp;ldquo;Environmental Science and Policy&amp;rdquo; (of course the real name is in Chinese instead of English), where I post mostly my literature reading, my views on issues concerned with environmental science and policy, mostly policy.</description>
+    </item>
+    
     <item>
       <title>(Hu)go Template Primer</title>
       <link>https://albertpp.github.io/2014/goisforlovers/</link>
@@ -29,16 +39,6 @@ More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Start</title>
-      <link>https://albertpp.github.io/1/what-is-this-website-for/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://albertpp.github.io/1/what-is-this-website-for/</guid>
-      <description>#0. Why building this website?
-I&amp;rsquo;m always a lover of telling, no matter what I tell&amp;ndash;stories, my feelings, daily routines, magics, legends&amp;ndash;I just tell them all. So when I grow up to be a college student, with all the staff I learn from textbook, my teachers and sometimes from websites, I can&amp;rsquo;t suppress my urge to share them with people. I myself own a Wechat Subscriber named &amp;ldquo;Environmental Science and Policy&amp;rdquo; (of course the real name is in Chinese instead of English), where I post mostly my literature reading, my views on issues concerned with environmental science and policy, mostly policy.</description>
     </item>
     
   </channel>
